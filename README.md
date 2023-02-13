@@ -1,0 +1,3 @@
+# prettier-config
+
+Конфигурация Prettier
