@@ -5,5 +5,12 @@
   "devDependencies": {
     "prettier": "2.8.4",
     "prettier-plugin-packagejson": "2.4.3"
+  },
+  "peerDependencies": {
+    "prettier": "latest",
+    "prettier-plugin-css-order": "latest",
+    "prettier-plugin-packagejson": "latest",
+    "prettier-plugin-sort-json": "latest",
+    "prettier-plugin-tailwindcss": "latest"
   }
 }
