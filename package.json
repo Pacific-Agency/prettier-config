@@ -2,6 +2,10 @@
   "name": "@pacific-agency/prettier-config",
   "version": "0.0.0",
   "description": "Конфигурация Prettier",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Pacific-Agency/prettier-config"
+  },
   "main": "index.js",
   "devDependencies": {
     "prettier": "2.8.4",
@@ -13,5 +17,6 @@
     "prettier-plugin-packagejson": "latest",
     "prettier-plugin-sort-json": "latest",
     "prettier-plugin-tailwindcss": "latest"
-  }
+  },
+  "packageManager": "pnpm@7.27.0"
 }
