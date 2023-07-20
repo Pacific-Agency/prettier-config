@@ -1,6 +1,6 @@
 {
   "name": "@pacific-agency/prettier-config",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "description": "Конфигурация Prettier",
   "repository": {
     "type": "git",
