@@ -1,4 +1,16 @@
 
+## v0.2.1
+
+[compare changes](https://github.com/Pacific-Agency/prettier-config/compare/v0.2.0...v0.2.1)
+
+### 🐞 Исправления
+
+- Закрепление версии Prettier на `v2.8.8` ([#39](https://github.com/Pacific-Agency/prettier-config/pull/39))
+
+### ❤️  Contributors
+
+- Vasily Kuzin ([@ExEr7um](http://github.com/ExEr7um))
+
 ## v0.2.0
 
 [compare changes](https://github.com/Pacific-Agency/prettier-config/compare/v0.1.2...v0.2.0)
