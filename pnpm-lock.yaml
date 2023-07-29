@@ -6,13 +6,13 @@ settings:
 
 dependencies:
   prettier-plugin-css-order:
-    specifier: '*'
+    specifier: ~1.3.1
     version: 1.3.1(postcss@8.4.27)(prettier@2.8.8)
   prettier-plugin-sort-json:
-    specifier: '*'
+    specifier: ~1.0.0
     version: 1.0.0(prettier@2.8.8)
   prettier-plugin-tailwindcss:
-    specifier: '*'
+    specifier: ~0.4.1
     version: 0.4.1(prettier-plugin-css-order@1.3.1)(prettier@2.8.8)
 
 devDependencies:
@@ -97,8 +97,8 @@ packages:
       which: 2.0.2
     dev: true
 
-  /css-declaration-sorter@7.0.2(postcss@8.4.27):
-    resolution: {integrity: sha512-iulo5tHbu/5vm5GZaG+EoVTGCTW7ZxPmVzSThYzC0SODEzTcu51ARSAjVwubK/C7zHopckjBljDsHX+k7n38rA==}
+  /css-declaration-sorter@7.0.3(postcss@8.4.27):
+    resolution: {integrity: sha512-/PHObPdiAXf0H3LOZCyXgBLt5fiS5XGCml/Ylpkmr7ADgq94GffvdGxJEmsSLDo0XGzItJY79dusRka0e4UVLw==}
     engines: {node: ^14 || ^16 || >=18}
     peerDependencies:
       postcss: ^8.0.9
@@ -437,7 +437,7 @@ packages:
     peerDependencies:
       prettier: 2.x
     dependencies:
-      css-declaration-sorter: 7.0.2(postcss@8.4.27)
+      css-declaration-sorter: 7.0.3(postcss@8.4.27)
       postcss-less: 6.0.0(postcss@8.4.27)
       postcss-scss: 4.0.6(postcss@8.4.27)
       prettier: 2.8.8
