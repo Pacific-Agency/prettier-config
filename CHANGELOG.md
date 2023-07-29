@@ -1,4 +1,16 @@
 
+## v0.2.2
+
+[compare changes](https://github.com/Pacific-Agency/prettier-config/compare/v0.2.1...v0.2.2)
+
+### 🐞 Исправления
+
+- Закрепление версий `peer`-зависимостей ([#40](https://github.com/Pacific-Agency/prettier-config/pull/40))
+
+### ❤️  Contributors
+
+- Vasily Kuzin ([@ExEr7um](http://github.com/ExEr7um))
+
 ## v0.2.1
 
 [compare changes](https://github.com/Pacific-Agency/prettier-config/compare/v0.2.0...v0.2.1)
