@@ -1,7 +1,7 @@
 /** @type {import('prettier').Config} */
-module.exports = {
+export default {
   htmlWhitespaceSensitivity: "ignore",
-  plugins: [require("prettier-plugin-packagejson")],
+  plugins: ["prettier-plugin-packagejson"],
   semi: false,
   trailingComma: "es5",
 }
