@@ -1,12 +1,10 @@
 /** @type {import('prettier').Config} */
-module.exports = {
+export default {
   htmlWhitespaceSensitivity: "ignore",
-  jsonRecursiveSort: true,
   plugins: [
-    require("prettier-plugin-sort-json"),
-    require("prettier-plugin-css-order"),
-    require("prettier-plugin-packagejson"),
-    require("prettier-plugin-tailwindcss"),
+    "prettier-plugin-css-order",
+    "prettier-plugin-packagejson",
+    "prettier-plugin-tailwindcss",
   ],
   semi: false,
   trailingComma: "es5",
